@@ -1,1 +1,1 @@
-Hello, world! This is my first PUSH to Github
+This is my first update -- a second PUSH to Github
